@@ -1,0 +1,8 @@
+name: city_lakehouse
+version: 1.0.0
+config-version: 2
+profile: city_lakehouse
+model-paths: ["models"]
+models:
+  city_lakehouse:
+    +materialized: view

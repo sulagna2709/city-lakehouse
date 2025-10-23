@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+data/
+*.duckdb
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
